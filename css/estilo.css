@@ -113,3 +113,13 @@
 
 
 }
+
+.header{
+  background-color: #7ffcee;
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  padding: 0px, 25px;
+  height: 80px;
+  align-items: center;
+  text-align: center;
+}
