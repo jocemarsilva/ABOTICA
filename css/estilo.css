@@ -561,3 +561,38 @@
   
                   font-size: 35px;
                 }
+
+                .text-cta{
+                  padding-left: 5rem;
+                }
+                
+                .text-cta h6{
+                  font-size: 17px;
+                font-weight: 500;
+                letter-spacing: .6px;
+                margin-bottom: 14px;
+                
+                }
+                .text-cta h4{
+                  font-size: 3.3rem;
+                line-height: 1.2;
+                letter-spacing: .6rem;
+                margin-bottom: 30px;
+                }
+                
+                .text-cta a{
+                  background-color: #1c9230;
+                  padding: 1rem 3rem 1rem 3rem;
+                  border: none;
+                  border-radius: 5px;
+                  color: #fff;
+                font-size: 1rem;
+                cursor: pointer;
+                transition: 0.3s;
+                }
+                
+                .text-cta a:hover{
+                  background-color: #02360d;
+                    transform: scaleY(1.2);
+                
+                }
