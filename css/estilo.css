@@ -607,3 +607,9 @@
                   display: grid;
                 grid-template-columns: repeat(auto-fit, minmax(200px, auto));
                 }
+
+                .nossos-servicos h3{
+                  color: #1a0909;
+                  font-size: 23px;
+                  margin-bottom: 1.6rem;
+                }
