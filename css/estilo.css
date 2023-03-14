@@ -100,3 +100,16 @@
   position: relative;
   
 }
+
+@keyframes slid{
+  0%{left:0px}
+  20%{left:0px}
+30%{left:400px}
+50%{left: -400px;}
+60%{left: -800px;}
+90%{left-800px;}
+100%{left:0px;}
+
+
+
+}
