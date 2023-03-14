@@ -183,3 +183,18 @@
       background-color: #052f0f;
       transform: scaleY(1.1);
   }
+
+  section{
+    padding-top: 7rem;
+    background-color: #7ffcee
+  }
+  section h1{
+    
+    align-items: center;
+    text-align: center;
+    font-size: 60px;
+    font-family:'Quicksand', sans-serif; 
+    color:#025b11;
+    margin-bottom: 10px;
+    
+  }
