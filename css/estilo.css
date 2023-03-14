@@ -596,3 +596,14 @@
                     transform: scaleY(1.2);
                 
                 }
+
+                #Contato{
+                  display: flex;
+                  gap: 5rem;
+                  justify-content: space-around;
+                  background-color: #eee8e8;
+                  padding: 8rem;
+                  margin-top: 5rem;
+                  display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(200px, auto));
+                }
