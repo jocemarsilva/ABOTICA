@@ -6,3 +6,13 @@
   text-decoration: none;
   list-style: none;
   }
+
+  .menu{
+    background-color: #7ffcee;
+    font-family:'Quicksand', sans-serif;
+    font-size: 12px;
+    list-style:none;
+    border:2px solid #c0c0c0;
+    float:left;
+    }
+  
