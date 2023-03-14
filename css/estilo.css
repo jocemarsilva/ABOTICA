@@ -79,3 +79,24 @@
   grid-auto-flow: column;
   grid-auto-columns: 1fr;
 }
+
+.carrossel{
+  background-color: #7ffcee;
+  width: 160vh;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0px auto;
+  box-shadow: 20px 20px 25px rgb(0, 0, 0,0,0);
+}
+
+.carrossel ul{
+  display: flex;
+  list-style: none;
+  width: 1000px;
+  height: 250px;
+}
+
+.carrossel li{
+  position: relative;
+  
+}
