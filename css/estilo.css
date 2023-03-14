@@ -166,3 +166,20 @@
     color:#025b11;
     
   }
+
+  .descricao button{
+    background-color: #094c59;
+    padding: 1rem 3rem 1rem 3rem;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: 0.3s;
+  
+  }
+  
+  .descricao button:hover{
+      background-color: #052f0f;
+      transform: scaleY(1.1);
+  }
