@@ -203,3 +203,12 @@
     background-color: #babac2;
     width: 60%;
   }
+
+  .container-Lançamento{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    overflow: hidden;
+    list-style: none;
+  
+  }
