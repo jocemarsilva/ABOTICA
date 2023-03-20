@@ -1,4 +1,7 @@
  # E-commerce ABOTICA
+ 
+ ![ImgBotica](https://user-images.githubusercontent.com/121300540/226336093-2b4ca37d-3b9a-496c-aa4f-2e70f0055438.png)
+
 
 ## Desafio Programa Desenvolve Grupo Boticário
 Criar o layout de uma loja virtual para a venda de perfumes.
