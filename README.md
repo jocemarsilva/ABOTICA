@@ -13,6 +13,8 @@ planejado no Figma e outros requisitos ter:
 # Sobre o projeto
 ## Aproveite para comprar os melhores perfumes com preços acessiveis.
 
+## Elaborado no Figma: 
+
  ## Html 5 com tag semântica: 
  - Header
  - Main
