@@ -1,7 +1,14 @@
- # Layout do E-commerce ABOTICA
+ # E-commerce ABOTICA
 
+## Desafio Programa Desenvolve Grupo Boticário
+Criar o layout de uma loja virtual para a venda de perfumes.
+planejado no Figma e outros requisitos ter: 
 
-
+* Header, 
+* Apresentação dos principais produtos, 
+* Apresentação da marca,
+* Menu e 
+* Footer.
  
 # Sobre o projeto
 ## Aproveite para comprar os melhores perfumes com preços acessiveis.
@@ -55,11 +62,17 @@ https://jocemarsilva.github.io/ABOTICA/
 * ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 * ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
   
- ## Time de DEsenvolvedores. 
+ ## Time de Desenvolvedores. 
  - Jocemar Silva
  - Lucas Moraes
  - Rafael Aguiar
 
+## Time de Mentores do Grupo o Boticário.
+
+ - Bruno Brito
+ - Marlon da Silva Albino
+ - Melyne Castro
+ 
 ## Feedback
 
 Se você tiver algum feedback, por gentileza, entre em contato, através do site: https://jocemarsilva.com.br/contato/
